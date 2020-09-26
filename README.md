@@ -61,3 +61,6 @@ PHP, HTML, Javascript, dan CSS serta database MySQL.
 untuk menjalankan aplikasi ini perlu mengkopikan file 5.php dan folder img
 ke dalam folder sub folder htdocs pada XAMPP atau sejenisnya.
 
+Aplikasi ini berisi tentang laman untuk melihat dan mengedit database yang telah
+dibuat pada soal no.4. bisa melakukan CREATE, READ,
+UPDATE, DELETE pada aplikasi ini.
