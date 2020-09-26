@@ -1,0 +1,25 @@
+body {
+	background-color: #F1DCDC;
+	text-align: center;
+	background-image: url(2.png);
+	
+}
+.container {
+	width: 700px;
+	background-color: white;
+	text-align: center;
+	margin: 20px auto;
+	padding: 20px
+}
+.container p {
+	display: inline-block;
+	text-align: justify;
+	padding: 30px 70px;
+
+}
+
+
+
+#hasil {
+	width: 600px;
+}

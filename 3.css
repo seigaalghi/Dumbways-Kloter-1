@@ -1,0 +1,17 @@
+body {
+	background-image: url(3.png);
+}
+.container {
+	text-align: center;
+	background-color: white;
+	margin: 20px auto;
+	width: 700px;
+	height: 700px;
+	padding: 100px;
+}
+
+#textarea {
+	height: 500px;
+	width: 400px;
+	margin-top: 30px;
+}

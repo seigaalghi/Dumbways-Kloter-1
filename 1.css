@@ -1,0 +1,39 @@
+body {
+	background-color: #F1DCDC;
+	text-align: center;
+	background-image: url(1.png);
+	
+}
+.container {
+	width: 600px;
+	background-color: white;
+	text-align: center;
+	margin: 20px auto;
+	padding: 40px;
+}
+
+#ti2 {
+	width: 500px;
+	margin: 40px;
+	text-align: center;
+}
+
+#ti1 {
+	text-align: center;
+	width: 500px;
+	margin: 40px;
+}
+
+.cf:before,
+.cf:after {
+    content: " "; 
+    display: table; 
+}
+
+.cf:after {
+    clear: both;
+}
+
+.cf {
+    *zoom: 1;
+}
